@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: cv
 permalink: /cv/
 title: cv
@@ -8,4 +8,9 @@ cv_pdf: example_pdf.pdf
 description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left
----
+--- -->
+
+## CV
+
+- Short CV - October 2024 [[pdf](/path/to/your/short_cv.pdf)]
+- Long Version - October 2024 [[pdf](/path/to/your/long_cv.pdf)]

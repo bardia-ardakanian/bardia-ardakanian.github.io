@@ -10,10 +10,10 @@ profile:
   image_circular: true
   more_info: >
     <p>Bardia Ardakanian</p>
-    <p>Email: <a href="mailto:b.ardakanian@gmail.com">b.ardakanian@gmail.com</a></p>
+    <p><a href="mailto:b.ardakanian@gmail.com">Email</a></p>
     <p>Phone: +98 919 100 8577</p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/bardia-ardakanian-9600ab191">linkedin.com/in/bardia-ardakanian</a></p>
-    <p>GitHub: <a href="https://github.com/bardia-ardakanian">github.com/bardia-ardakanian</a></p>
+    <p><a href="https://www.linkedin.com/in/bardia-ardakanian-9600ab191">LinkedIn</a></p>
+    <p><a href="https://github.com/bardia-ardakanian">Github</a></p>
 
 news: true
 selected_papers: true
@@ -31,6 +31,7 @@ Since then, I have been actively exploring my passion in:
 
 Alongside my academic pursuits, I bring three years of industry experience, working as a Machine Learning Engineer since September 2022 on robotic control systems for packaging and sorting in food chain automation. Previously, I spent a year and a half as a software developer in top Iranian industries.
 
+<!-- 
 ## Publications
 
 ---
@@ -41,9 +42,9 @@ Alongside my academic pursuits, I bring three years of industry experience, work
 
 - **Bardia Ardakanian**. "Development of Natural and Artificial Intelligence - Post-Selection Dialogue: Challenges to Post-Selection," *IEEE Cognitive Development Systems Newsletter*, vol. 18, no. 2, pp. 6-11, 2024. [Available here](https://www.cse.msu.edu/amdtc/amdnl/CDSNL-V18-N2.pdf#page=6). [[pdf](/assets/pdf/CDSNL-V18-N2.pdf)]
 
-- **Bardia Ardakanian**, Dr. Hamed Farbeh. **"Optimizing Cache Replacement Policies through Unsupervised Learning"** (Under Preparation).
+- **Bardia Ardakanian**, Hamed Farbeh. **"Optimizing Cache Replacement Policies through Unsupervised Learning"** (Under Preparation).
 
-- **Bardia Ardakanian**, Dr. Mahdi Javanmardi, Fardin Ayar. **"Enhanced Unsupervised Camera-LiDAR Fusion for Fast Region Proposal"** (Under Preparation).
+- **Bardia Ardakanian**, Mahdi Javanmardi, Fardin Ayar. **"Enhanced Unsupervised Camera-LiDAR Fusion for Fast Region Proposal"** (Under Preparation).
 
 
 ## Research Assistantships
@@ -56,8 +57,6 @@ Alongside my academic pursuits, I bring three years of industry experience, work
 
 - **Unsupervised Camera-LiDAR Fusion for Faster Region Proposal** - B.Sc. Thesis: Developed an unsupervised approach to fuse 2D camera and 3D LiDAR data, applying clustering techniques to identify object-containing regions efficiently, aimed at faster and more accurate object detection.
 
----
-
 **Hardware Lab, Amirkabir University of Technology**  
 *Research Assistant* — *June 2023 – Present*  
 **Supervisor:** Dr. Hamed Farbeh  
@@ -65,11 +64,36 @@ Alongside my academic pursuits, I bring three years of industry experience, work
 - Developed an unsupervised model to optimize cache replacement policy in the third layer, enhancing cache efficiency; a publication is currently under preparation.
 - Designed a reinforcement learning model to improve third-layer cache performance by recognizing and adapting to memory access patterns.
 
----
-
 **Department of Electrical and Computer Engineering, University of Toronto**  
 *Research Collaborator* — *September 2022 – September 2023*
 
 - [*Deep Active-Learning Object Detection*](https://github.com/bardia-ardakanian/AL-VAE): Developed a model by training the SSD network with active learning techniques, utilizing Variational Autoencoders (VAEs) and Stable Diffusion to filter irrelevant images from the training dataset efficiently.
 - [*Super-Resolution Enhancement with Explainable AI (XAI)*](https://github.com/bardia-ardakanian/XSwinIR): Assessed the integration of explainable AI (XAI) techniques to enhance the robustness of the SwinIR model on blurry and noisy images.
 - [*Deep Semi-Supervised Image Semantic Segmentation*](https://github.com/keivanipchihagh/SemiSemanticGAN): Assessed the use of CycleGAN and a novel loss function to generate varied training data, aiming to improve the accuracy of NVIDIA’s SemanticGAN model.
+
+## Teaching Experience
+
+---
+
+**Amirkabir University of Technology**
+
+- *Instructor:*  
+  - Data Structures and Algorithms
+  - Fundamentals of Linux
+  - Linux Control Groups
+
+- *Head Teaching Assistant:*  
+  - Database Management Concepts and Systems  
+  - Compiler Design  
+  - Computer Architecture  
+  - Algorithm Design  
+  - Discrete Mathematics  
+  - Applied Linear Algebra
+
+- *Teaching Assistant:*  
+  - Operating Systems Lab  
+  - Computational Intelligence  
+  - Advanced Programming  
+  - Computer Architecture  
+  - Data Structure & Algorithms  
+  - Fundamentals of Programming -->
