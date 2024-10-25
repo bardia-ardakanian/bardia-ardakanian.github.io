@@ -7,16 +7,16 @@ subtitle: <a href='https://aut.ac.ir'>Affiliations</a>. Amirkabir University of 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
-    <p>Bardia Ardakanian</p>
-    <p><a href="mailto:b.ardakanian@gmail.com">Email</a></p>
-    <p>Phone: +98 919 100 8577</p>
-    <p><a href="https://www.linkedin.com/in/bardia-ardakanian-9600ab191">LinkedIn</a></p>
+    <p>Bardia Ardakanian</p><br>
+    <p><a href="mailto:b.ardakanian@gmail.com">Email</a></p><br>
+    <p>Phone: +98 919 100 8577</p><br>
+    <p><a href="https://www.linkedin.com/in/bardia-ardakanian-9600ab191">LinkedIn</a></p><br>
     <p><a href="https://github.com/bardia-ardakanian">Github</a></p>
 
 news: true
-selected_papers: true
+selected_papers: false
 social: true
 ---
 
