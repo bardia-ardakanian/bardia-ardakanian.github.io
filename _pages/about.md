@@ -2,18 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://aut.ac.ir'>Affiliations</a>. Amirkabir University of Technology. Tehran, Iran.
+subtitle: Machine Learning Engineer, BSc in Computer Engineering
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Bardia Ardakanian</p><br>
-    <p><a href="mailto:b.ardakanian@gmail.com">Email</a></p><br>
-    <p>Phone: +98 919 100 8577</p><br>
-    <p><a href="https://www.linkedin.com/in/bardia-ardakanian-9600ab191">LinkedIn</a></p><br>
-    <p><a href="https://github.com/bardia-ardakanian">Github</a></p>
+    <p>Phone: (+98) 919 100-8577</p><br>
+    <p>Tehran, Iran</p>
 
 news: true
 selected_papers: false

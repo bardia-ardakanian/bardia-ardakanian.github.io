@@ -4,7 +4,6 @@ permalink: /honors/
 title: Honors & Activities
 description:
 nav: true
-nav_order: 3
 ---
 
 - Ranked in the top **20%** of the Class of 2019 in Computer Engineering at Amirkabir, 2024
