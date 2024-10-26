@@ -1,33 +1,31 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Finished my BSc Thesis!
+date: 2024-10-14 14:00:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+🚀 **Thrilled to Announce My Completed BSc Thesis!** 🚀
+
+I'm excited to share that I’ve finished my BSc thesis, **Unsupervised Camera-LiDAR Fusion for Fast Region Proposal**! After months of intense research, development, and analysis, this project has been a journey of merging advanced sensor technologies to tackle real-world challenges in object detection. 🌍🤖
+
+### 📜 Thesis Details
+The thesis, written in Farsi, is now available for those interested in delving deeper! You can check it out [here](/assets/pdf/Thesis_BardiaArdakanian.pdf), and if you want a quick overview, my presentation slides are accessible [here](/assets/pdf/BA%20thesis.pdf). My work was supervised by the knowledgeable **Mahdi Javanmardi**, with **Mohammad Rahmati** as a committee member—two mentors whose guidance was invaluable throughout this journey.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+### **Thesis Abstract:**
 
-#### Hipster list
+> 🎯 *Why This Research?*  
+In recent years, the integration of multiple sensory data sources—like cameras and LiDAR—has revolutionized object detection systems, bringing an edge in both accuracy and speed. However, the process of collecting and manually labeling training data for these models can be incredibly costly and time-consuming.
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+> 🤖 *What Did We Do?*  
+In this thesis, I proposed an unsupervised learning approach to fuse camera and LiDAR data for region proposal, focusing on how this method can impact the effectiveness, accuracy, and speed of object detection. By blending 2D camera images with 3D LiDAR data, and using unsupervised clustering algorithms, we identified potential object regions without the need for labeled data—a significant time-saver in the development pipeline.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+> 📊 *What Did We Find?*  
+The results showed that our approach could identify object-containing regions with a high degree of accuracy, even without labeled data. This means that this method has the potential to reduce both the cost and time required to develop high-performing object detection systems—paving the way for faster and more efficient applications in autonomous vehicles, surveillance, and beyond!
 
----
+Thank you to everyone who supported me on this journey, and to all those fascinated by the future of sensor fusion and AI—there’s so much more to explore! 🌌
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Stay tuned for more updates, and feel free to dive into the full thesis and slides if you’re interested in the technical details!
