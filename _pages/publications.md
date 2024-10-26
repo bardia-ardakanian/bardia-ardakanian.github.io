@@ -4,6 +4,7 @@ permalink: /publications/
 title: Publications
 description: publications by categories in reversed chronological order.
 nav: true
+nav_order: 2
 ---
 
 1. **Reinforcement Learning-Based Model Matching to Reduce the Sim-Real Gap in COBRA**, under review at the American Control Conference (ACC), 2025 [[link](https://arxiv.org/pdf/2406.13700)] [[pdf](/assets/pdf/)]
