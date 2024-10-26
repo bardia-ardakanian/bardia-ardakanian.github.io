@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Phone: (+98) 919 100-8577</p><br>
-    <p>Email: b.ardakanian@gmail.com</p><br>
+    <p>b.ardakanian@gmail.com</p><br>
     <p>Tehran, Iran</p>
 
 news: true
