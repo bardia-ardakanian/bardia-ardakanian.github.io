@@ -5,138 +5,138 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-# - bardia-ardakanian/AL-VAE
-# - bardia-ardakanian/Alpine-curl
-# - bardia-ardakanian/Anonymous
-# - bardia-ardakanian/bardia-ardakanian
-# - bardia-ardakanian/CE104-AP-TankTrouble
-# - bardia-ardakanian/CE261-WP-GenderAnalyzer
-# - bardia-ardakanian/CE351-CI-EvolutionaryGames
-# - bardia-ardakanian/CE351-CI-NN-From-Scratch
-# - bardia-ardakanian/CE422-CC-Eververse
-# - bardia-ardakanian/CE422-CC-Jaarkesh
-# - bardia-ardakanian/Champsim-Agent
-# - bardia-ardakanian/CS183-SMSVM-Pyomo
-# - bardia-ardakanian/CS183-SVM-Linear-Optimization
-# - bardia-ardakanian/CV
-# - bardia-ardakanian/DataCamp-A-Visual-History-of-Nobel-Prize-Winners
-# - bardia-ardakanian/DataCamp-Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office
-# - bardia-ardakanian/DataCamp-The-Android-App-Market-on-Google-Play
-# - bardia-ardakanian/DataCamp-The-GitHub-History-of-the-Scala-Language
-# - bardia-ardakanian/docker-webkit
-# - bardia-ardakanian/dotandboxes-alphabeta
-# - bardia-ardakanian/Elizabeths-phaeton
-# - bardia-ardakanian/HPSO-LS
-# - bardia-ardakanian/JBilliard
-# - bardia-ardakanian/Optimize-Hyperparameter
-# - bardia-ardakanian/Swing-game
-# - bardia-ardakanian/XSwinIR
-# - bardia-ardakanian/XTC
-# - CeShora/JarvisBot
-# - CeShora/ShoraSite
-# - CeShora/yearbook
-# - Computer-Engineering-Department-Archive/.github
-# - Computer-Engineering-Department-Archive/ActuallyUnderstandingUniversityCourses
-# - Computer-Engineering-Department-Archive/AI_booklet_CE-AUT
-# - Computer-Engineering-Department-Archive/aut-assignment
-# - Computer-Engineering-Department-Archive/AUT-CE-ICT-Deprecated
-# - Computer-Engineering-Department-Archive/AUT-CE-IE-Deprecated
-# - Computer-Engineering-Department-Archive/AUT-CE-IOT-Deprecated
-# - Computer-Engineering-Department-Archive/AUT-Passwords
-# - Computer-Engineering-Department-Archive/AUT053-M1
-# - Computer-Engineering-Department-Archive/AUT103-M2
-# - Computer-Engineering-Department-Archive/AUT253-DE
-# - Computer-Engineering-Department-Archive/AUT303-ES
-# - Computer-Engineering-Department-Archive/AUT303-GP1
-# - Computer-Engineering-Department-Archive/AUT353-GP2
-# - Computer-Engineering-Department-Archive/build-your-own-x
-# - Computer-Engineering-Department-Archive/CE-231-DB-Lab
-# - Computer-Engineering-Department-Archive/CE-421-IR-Project
-# - Computer-Engineering-Department-Archive/CE101-C
-# - Computer-Engineering-Department-Archive/CE101-C-TA
-# - Computer-Engineering-Department-Archive/CE103-DM
-# - Computer-Engineering-Department-Archive/CE103-DM-TA
-# - Computer-Engineering-Department-Archive/CE104-AP
-# - Computer-Engineering-Department-Archive/CE104-AP-TA
-# - Computer-Engineering-Department-Archive/CE104-AP-TankTrouble
-# - Computer-Engineering-Department-Archive/CE201-LC
-# - Computer-Engineering-Department-Archive/CE201-LC-Project
-# - Computer-Engineering-Department-Archive/CE202-LC-Lab
-# - Computer-Engineering-Department-Archive/CE202-LC-Lab-Manual
-# - Computer-Engineering-Department-Archive/CE203-DS
-# - Computer-Engineering-Department-Archive/CE203-DS-Sandbox
-# - Computer-Engineering-Department-Archive/CE203-DS-TA
-# - Computer-Engineering-Department-Archive/CE204-EEC
-# - Computer-Engineering-Department-Archive/CE206-TE
-# - Computer-Engineering-Department-Archive/CE207-CA
-# - Computer-Engineering-Department-Archive/CE207-CA-TA
-# - Computer-Engineering-Department-Archive/CE208-CA-Lab
-# - Computer-Engineering-Department-Archive/CE209-TLA
-# - Computer-Engineering-Department-Archive/CE210-ALA
-# - Computer-Engineering-Department-Archive/CE210-ALA-TA
-# - Computer-Engineering-Department-Archive/CE221-AD
-# - Computer-Engineering-Department-Archive/CE222-Signals-Deprecated
-# - Computer-Engineering-Department-Archive/CE222-SS-Deprecated
-# - Computer-Engineering-Department-Archive/CE231-DB
-# - Computer-Engineering-Department-Archive/CE231-DB-Lab
-# - Computer-Engineering-Department-Archive/CE231-DB-Lab-OpenGoggles
-# - Computer-Engineering-Department-Archive/CE231-DB-Momtazi-Deprecated
-# - Computer-Engineering-Department-Archive/CE231-DB-Project
-# - Computer-Engineering-Department-Archive/CE231-DB-TA
-# - Computer-Engineering-Department-Archive/CE232-CD
-# - Computer-Engineering-Department-Archive/CE232-CD-Deprecated
-# - Computer-Engineering-Department-Archive/CE242-PDS-Deprecated
-# - Computer-Engineering-Department-Archive/CE251-AI
-# - Computer-Engineering-Department-Archive/CE251-AI-Deprecated
-# - Computer-Engineering-Department-Archive/CE261-WP-Deprecated
-# - Computer-Engineering-Department-Archive/CE301-MP
-# - Computer-Engineering-Department-Archive/CE302-MP-Lab
-# - Computer-Engineering-Department-Archive/CE302-MP-Lab-Deprecated
-# - Computer-Engineering-Department-Archive/CE303-OS
-# - Computer-Engineering-Department-Archive/CE303-OS-Scheduling
-# - Computer-Engineering-Department-Archive/CE303-OS-TA
-# - Computer-Engineering-Department-Archive/CE304-OS-Lab
-# - Computer-Engineering-Department-Archive/CE305-CN
-# - Computer-Engineering-Department-Archive/CE306-CN-Lab
-# - Computer-Engineering-Department-Archive/CE307-SE1-C3PO
-# - Computer-Engineering-Department-Archive/CE307-SEI
-# - Computer-Engineering-Department-Archive/CE308-RP
-# - Computer-Engineering-Department-Archive/CE331-SEII
-# - Computer-Engineering-Department-Archive/CE341-ERTS
-# - Computer-Engineering-Department-Archive/CE351-CI
-# - Computer-Engineering-Department-Archive/CE351-CI-EvolutionaryGames
-# - Computer-Engineering-Department-Archive/CE351-CI-NN-From-Scratch
-# - Computer-Engineering-Department-Archive/CE361-DC-Deprecated
-# - Computer-Engineering-Department-Archive/CE421-IR-Deprecated
-# - Computer-Engineering-Department-Archive/CE422-CC
-# - Computer-Engineering-Department-Archive/CE422-CC-Jaarkesh
-# - Computer-Engineering-Department-Archive/CE431-ST
-# - Computer-Engineering-Department-Archive/CE451-Bio-Deprecated
-# - Computer-Engineering-Department-Archive/CE452-Data-Deprecated
-# - Computer-Engineering-Department-Archive/CEXXX_BBB
-# - Computer-Engineering-Department-Archive/Computational-Intelligence
-# - Computer-Engineering-Department-Archive/contribution
-# - Computer-Engineering-Department-Archive/CS183-LO
-# - Computer-Engineering-Department-Archive/CS183-SMSVM-Pyomo
-# - Computer-Engineering-Department-Archive/CS183-SVM-Linear-Optimization
-# - Computer-Engineering-Department-Archive/DataScience
-# - Computer-Engineering-Department-Archive/developer-roadmap
-# - Computer-Engineering-Department-Archive/EN-FA-CS-Dictionary
-# - Computer-Engineering-Department-Archive/frontend-journey
-# - Computer-Engineering-Department-Archive/HPSR101
-# - Computer-Engineering-Department-Archive/leetcode
-# - Computer-Engineering-Department-Archive/Linear-Algebra
-# - Computer-Engineering-Department-Archive/Machine-Learning-Collection
-# - Computer-Engineering-Department-Archive/ML-YouTube-Courses
-# - Computer-Engineering-Department-Archive/MOSSer
-# - Computer-Engineering-Department-Archive/MSc-Entrance-Exam
-# - Computer-Engineering-Department-Archive/nlp-phd-global-equality
-# - Computer-Engineering-Department-Archive/OS-XV6
-# - Computer-Engineering-Department-Archive/Resourses
-# - Computer-Engineering-Department-Archive/ThesisTemplate
-# - Computer-Engineering-Department-Archive/Usage-Guide
-# - keivanipchihagh/machinelearning-roadmap
-# - mohamadch91/Logic-Circuit
-# - Noisyboy-9/mafia_game
-# - sarvenaz-srv/JCluedo
-# - Team-AL-Organization/SwinIR
+- bardia-ardakanian/AL-VAE
+- bardia-ardakanian/Alpine-curl
+- bardia-ardakanian/Anonymous
+- bardia-ardakanian/bardia-ardakanian
+- bardia-ardakanian/CE104-AP-TankTrouble
+- bardia-ardakanian/CE261-WP-GenderAnalyzer
+- bardia-ardakanian/CE351-CI-EvolutionaryGames
+- bardia-ardakanian/CE351-CI-NN-From-Scratch
+- bardia-ardakanian/CE422-CC-Eververse
+- bardia-ardakanian/CE422-CC-Jaarkesh
+- bardia-ardakanian/Champsim-Agent
+- bardia-ardakanian/CS183-SMSVM-Pyomo
+- bardia-ardakanian/CS183-SVM-Linear-Optimization
+- bardia-ardakanian/CV
+- bardia-ardakanian/DataCamp-A-Visual-History-of-Nobel-Prize-Winners
+- bardia-ardakanian/DataCamp-Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office
+- bardia-ardakanian/DataCamp-The-Android-App-Market-on-Google-Play
+- bardia-ardakanian/DataCamp-The-GitHub-History-of-the-Scala-Language
+- bardia-ardakanian/docker-webkit
+- bardia-ardakanian/dotandboxes-alphabeta
+- bardia-ardakanian/Elizabeths-phaeton
+- bardia-ardakanian/HPSO-LS
+- bardia-ardakanian/JBilliard
+- bardia-ardakanian/Optimize-Hyperparameter
+- bardia-ardakanian/Swing-game
+- bardia-ardakanian/XSwinIR
+- bardia-ardakanian/XTC
+- CeShora/JarvisBot
+- CeShora/ShoraSite
+- CeShora/yearbook
+- Computer-Engineering-Department-Archive/.github
+- Computer-Engineering-Department-Archive/ActuallyUnderstandingUniversityCourses
+- Computer-Engineering-Department-Archive/AI_booklet_CE-AUT
+- Computer-Engineering-Department-Archive/aut-assignment
+- Computer-Engineering-Department-Archive/AUT-CE-ICT-Deprecated
+- Computer-Engineering-Department-Archive/AUT-CE-IE-Deprecated
+- Computer-Engineering-Department-Archive/AUT-CE-IOT-Deprecated
+- Computer-Engineering-Department-Archive/AUT-Passwords
+- Computer-Engineering-Department-Archive/AUT053-M1
+- Computer-Engineering-Department-Archive/AUT103-M2
+- Computer-Engineering-Department-Archive/AUT253-DE
+- Computer-Engineering-Department-Archive/AUT303-ES
+- Computer-Engineering-Department-Archive/AUT303-GP1
+- Computer-Engineering-Department-Archive/AUT353-GP2
+- Computer-Engineering-Department-Archive/build-your-own-x
+- Computer-Engineering-Department-Archive/CE-231-DB-Lab
+- Computer-Engineering-Department-Archive/CE-421-IR-Project
+- Computer-Engineering-Department-Archive/CE101-C
+- Computer-Engineering-Department-Archive/CE101-C-TA
+- Computer-Engineering-Department-Archive/CE103-DM
+- Computer-Engineering-Department-Archive/CE103-DM-TA
+- Computer-Engineering-Department-Archive/CE104-AP
+- Computer-Engineering-Department-Archive/CE104-AP-TA
+- Computer-Engineering-Department-Archive/CE104-AP-TankTrouble
+- Computer-Engineering-Department-Archive/CE201-LC
+- Computer-Engineering-Department-Archive/CE201-LC-Project
+- Computer-Engineering-Department-Archive/CE202-LC-Lab
+- Computer-Engineering-Department-Archive/CE202-LC-Lab-Manual
+- Computer-Engineering-Department-Archive/CE203-DS
+- Computer-Engineering-Department-Archive/CE203-DS-Sandbox
+- Computer-Engineering-Department-Archive/CE203-DS-TA
+- Computer-Engineering-Department-Archive/CE204-EEC
+- Computer-Engineering-Department-Archive/CE206-TE
+- Computer-Engineering-Department-Archive/CE207-CA
+- Computer-Engineering-Department-Archive/CE207-CA-TA
+- Computer-Engineering-Department-Archive/CE208-CA-Lab
+- Computer-Engineering-Department-Archive/CE209-TLA
+- Computer-Engineering-Department-Archive/CE210-ALA
+- Computer-Engineering-Department-Archive/CE210-ALA-TA
+- Computer-Engineering-Department-Archive/CE221-AD
+- Computer-Engineering-Department-Archive/CE222-Signals-Deprecated
+- Computer-Engineering-Department-Archive/CE222-SS-Deprecated
+- Computer-Engineering-Department-Archive/CE231-DB
+- Computer-Engineering-Department-Archive/CE231-DB-Lab
+- Computer-Engineering-Department-Archive/CE231-DB-Lab-OpenGoggles
+- Computer-Engineering-Department-Archive/CE231-DB-Momtazi-Deprecated
+- Computer-Engineering-Department-Archive/CE231-DB-Project
+- Computer-Engineering-Department-Archive/CE231-DB-TA
+- Computer-Engineering-Department-Archive/CE232-CD
+- Computer-Engineering-Department-Archive/CE232-CD-Deprecated
+- Computer-Engineering-Department-Archive/CE242-PDS-Deprecated
+- Computer-Engineering-Department-Archive/CE251-AI
+- Computer-Engineering-Department-Archive/CE251-AI-Deprecated
+- Computer-Engineering-Department-Archive/CE261-WP-Deprecated
+- Computer-Engineering-Department-Archive/CE301-MP
+- Computer-Engineering-Department-Archive/CE302-MP-Lab
+- Computer-Engineering-Department-Archive/CE302-MP-Lab-Deprecated
+- Computer-Engineering-Department-Archive/CE303-OS
+- Computer-Engineering-Department-Archive/CE303-OS-Scheduling
+- Computer-Engineering-Department-Archive/CE303-OS-TA
+- Computer-Engineering-Department-Archive/CE304-OS-Lab
+- Computer-Engineering-Department-Archive/CE305-CN
+- Computer-Engineering-Department-Archive/CE306-CN-Lab
+- Computer-Engineering-Department-Archive/CE307-SE1-C3PO
+- Computer-Engineering-Department-Archive/CE307-SEI
+- Computer-Engineering-Department-Archive/CE308-RP
+- Computer-Engineering-Department-Archive/CE331-SEII
+- Computer-Engineering-Department-Archive/CE341-ERTS
+- Computer-Engineering-Department-Archive/CE351-CI
+- Computer-Engineering-Department-Archive/CE351-CI-EvolutionaryGames
+- Computer-Engineering-Department-Archive/CE351-CI-NN-From-Scratch
+- Computer-Engineering-Department-Archive/CE361-DC-Deprecated
+- Computer-Engineering-Department-Archive/CE421-IR-Deprecated
+- Computer-Engineering-Department-Archive/CE422-CC
+- Computer-Engineering-Department-Archive/CE422-CC-Jaarkesh
+- Computer-Engineering-Department-Archive/CE431-ST
+- Computer-Engineering-Department-Archive/CE451-Bio-Deprecated
+- Computer-Engineering-Department-Archive/CE452-Data-Deprecated
+- Computer-Engineering-Department-Archive/CEXXX_BBB
+- Computer-Engineering-Department-Archive/Computational-Intelligence
+- Computer-Engineering-Department-Archive/contribution
+- Computer-Engineering-Department-Archive/CS183-LO
+- Computer-Engineering-Department-Archive/CS183-SMSVM-Pyomo
+- Computer-Engineering-Department-Archive/CS183-SVM-Linear-Optimization
+- Computer-Engineering-Department-Archive/DataScience
+- Computer-Engineering-Department-Archive/developer-roadmap
+- Computer-Engineering-Department-Archive/EN-FA-CS-Dictionary
+- Computer-Engineering-Department-Archive/frontend-journey
+- Computer-Engineering-Department-Archive/HPSR101
+- Computer-Engineering-Department-Archive/leetcode
+- Computer-Engineering-Department-Archive/Linear-Algebra
+- Computer-Engineering-Department-Archive/Machine-Learning-Collection
+- Computer-Engineering-Department-Archive/ML-YouTube-Courses
+- Computer-Engineering-Department-Archive/MOSSer
+- Computer-Engineering-Department-Archive/MSc-Entrance-Exam
+- Computer-Engineering-Department-Archive/nlp-phd-global-equality
+- Computer-Engineering-Department-Archive/OS-XV6
+- Computer-Engineering-Department-Archive/Resourses
+- Computer-Engineering-Department-Archive/ThesisTemplate
+- Computer-Engineering-Department-Archive/Usage-Guide
+- keivanipchihagh/machinelearning-roadmap
+- mohamadch91/Logic-Circuit
+- Noisyboy-9/mafia_game
+- sarvenaz-srv/JCluedo
+- Team-AL-Organization/SwinIR
