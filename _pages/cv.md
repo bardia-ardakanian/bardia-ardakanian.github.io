@@ -3,7 +3,6 @@ layout: page
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 4
 ---
 
 - Short CV - October 2024 [[pdf](/path/to/your/short_cv.pdf)]
