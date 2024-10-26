@@ -22,10 +22,11 @@ while True:
     if response.status_code != 200 or not data:
         break
 
-    # Append the current page repos to the list
-    repos.extend(data)
+    # Append only public repositories to the list
+    public_repos = [repo for repo in data if not repo['private']]
+    repos.extend(public_repos)
     page += 1
 
-# Display repository names
+# Display repository full names
 for repo in repos:
-    print(f'''- {repo['name']}''')
+    print(f"- {repo['full_name']}")
