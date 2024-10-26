@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Highlighted GitHub Repositories and Organizations
 nav: true
 nav_order: 4
