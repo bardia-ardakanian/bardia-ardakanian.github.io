@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /cv/
+title: Curriculum vitae
+nav: true
+nav_order: 4
+---
 <!-- ---
 layout: cv
 permalink: /cv/
@@ -9,8 +16,6 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 --- -->
-
-## CV
 
 - Short CV - October 2024 [[pdf](/path/to/your/short_cv.pdf)]
 - Long Version - October 2024 [[pdf](/path/to/your/long_cv.pdf)]
