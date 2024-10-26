@@ -11,13 +11,13 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-<!-- {% include bib_search.liquid %} -->
+{% include bib_search.liquid %}
 
-<!-- <div class="publications">
+<div class="publications">
 
 {% bibliography %}
 
-</div> -->
+</div>
 
 1. **Reinforcement Learning-Based Model Matching to Reduce the Sim-Real Gap in COBRA**, under review at the American Control Conference (ACC), 2025 [[link](https://arxiv.org/pdf/2406.13700)] [[pdf](/assets/pdf/)]
 Adarsh Salagame, Harin Kumar Nallaguntla, **Bardia Ardakanian**, Eric Sihite, Gunar Schirner, Alireza Ramezani
