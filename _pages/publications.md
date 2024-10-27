@@ -20,4 +20,4 @@ Supervisor: Mahdi Javanmardi, committee: Mohammad Rahmati
 **Bardia Ardakanian**, Hamed Farbeh
 
 5. **Enhanced Unsupervised Camera-LiDAR Fusion for Fast Region Proposal** (Manuscript Under Preparation) 
-**Bardia Ardakanian**, Mahdi Javanmardi, Fardin Ayar
+**Bardia Ardakanian**, Fardin Ayar, Mahdi Javanmardi
