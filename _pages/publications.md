@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-1. **Reinforcement Learning-Based Model Matching to Reduce the Sim-Real Gap in COBRA**, under review at the American Control Conference (ACC), 2025 [[link](https://arxiv.org/pdf/2406.13700)] [[pdf](/assets/pdf/C_Salagame_SimToReal_CDC_2024.pdf)]
+1. **Reinforcement Learning-Based Model Matching to Reduce the Sim-Real Gap in COBRA**, under review at the American Control Conference (ACC), 2025 [[link](https://arxiv.org/pdf/2406.13700)] [[pdf](/assets/pdf/SimToReal_ACC_2025.pdf)]
 Adarsh Salagame, Harin Kumar Nallaguntla, **Bardia Ardakanian**, Eric Sihite, Gunar Schirner, Alireza Ramezani
 
 2. **Unsupervised Camera-LiDAR Fusion for Fast Region Proposal**, BSc thesis, 2024, (Written in Farsi) [[link](https://digitallib.aut.ac.ir/)] [[pdf](/assets/pdf/Thesis_BardiaArdakanian.pdf)] [[slides](/assets/pdf/BA%20thesis.pdf)]
