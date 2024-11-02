@@ -18,7 +18,9 @@ selected_papers: false
 social: true
 ---
 
-Hi! I'm Bardia Ardakanian, a Computer Engineering graduate from [Amirkabir University of Technology](https://aut.ac.ir/en) in Iran. I completed my degree in September 2024 under the supervision of Dr. [Mahdi Javanmardi](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jp.linkedin.com/in/mjavan&ved=2ahUKEwivqbq__KmJAxWDh_0HHagTF4QQFnoECB0QAQ&usg=AOvVaw2gX66C-fxUGoidIBMsOqhG). Over the past year and a half, I have contributed to both the Robotics Lab, supervised by Dr. Javanmardi, and the Hardware Lab under Dr. [Hamed Farbeh](https://aut.ac.ir/cv/2158/HAMED%20FARBEH), where I focused on advancing projects in robotics, computer vision, and hardware optimization. You can download my [CV here](/assets/pdf/Ardakanian_ShortCV_Oct2024.pdf).
+Hi! I'm Bardia Ardakanian, a Computer Engineering graduate from [Amirkabir University of Technology](https://aut.ac.ir/en) in Iran. I completed my degree in September 2024 under the supervision of Dr. [Mahdi Javanmardi](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jp.linkedin.com/in/mjavan&ved=2ahUKEwivqbq__KmJAxWDh_0HHagTF4QQFnoECB0QAQ&usg=AOvVaw2gX66C-fxUGoidIBMsOqhG). Over the past year and a half, I have contributed to both the Robotics Lab, supervised by Dr. Javanmardi, and the Hardware Lab under Dr. [Hamed Farbeh](https://aut.ac.ir/cv/2158/HAMED%20FARBEH), where I focused on advancing projects in robotics, computer vision, and hardware optimization. 
+
+**You can download my [CV here](/assets/pdf/Ardakanian_ShortCV_Oct2024.pdf).**
 
 Since then, I have been actively exploring my passion in:
 
