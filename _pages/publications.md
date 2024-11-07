@@ -16,8 +16,8 @@ Supervisor: Mahdi Javanmardi, committee: Mohammad Rahmati
 3. **Development of Natural and Artificial Intelligence - Post-Selection Dialogue: Challenges to Post-Selection**, IEEE Cognitive Development Systems Newsletter, vol. 18, no. 2, pp. 6-11, 2024 [[link](https://www.cse.msu.edu/amdtc/amdnl/CDSNL-V18-N2.pdf#page=6)] [[pdf](/assets/pdf/CDSNL-V18-N2.pdf)] 
 **Bardia Ardakanian**
 
-4. **Optimizing Cache Replacement Policies through Unsupervised Learning** (Manuscript Under Preparation) 
+4. **Optimizing Cache Replacement Policies through Unsupervised Learning**, Manuscript Under Preparation, 
 **Bardia Ardakanian**, Hamed Farbeh
 
-5. **Unsupervised Camera-LiDAR Fusion for Efficient Online Segmentation** (Manuscript Under Preparation) 
+5. **Unsupervised Camera-LiDAR Fusion for Efficient Online Segmentation**, Manuscript Under Preparation, 
 **Bardia Ardakanian**, Fardin Ayar, Mahdi Javanmardi
