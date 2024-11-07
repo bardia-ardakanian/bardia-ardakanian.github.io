@@ -19,5 +19,5 @@ Supervisor: Mahdi Javanmardi, committee: Mohammad Rahmati
 4. **Optimizing Cache Replacement Policies through Unsupervised Learning** (Manuscript Under Preparation) 
 **Bardia Ardakanian**, Hamed Farbeh
 
-5. **Enhanced Unsupervised Camera-LiDAR Fusion for Fast Region Proposal** (Manuscript Under Preparation) 
+5. **Unsupervised Camera-LiDAR Fusion for Efficient Online Segmentation** (Manuscript Under Preparation) 
 **Bardia Ardakanian**, Fardin Ayar, Mahdi Javanmardi
