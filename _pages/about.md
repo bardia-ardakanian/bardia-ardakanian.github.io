@@ -9,12 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Phone: (+98) 919 100-8577</p><br>
+    <p>Phone: (+98) 919 100 8577</p><br>
     <p>b.ardakanian@gmail.com</p><br>
     <p>Tehran, Iran</p>
 
 news: true
-selected_papers: true
+selected_papers: false
 social: true
 ---
 
