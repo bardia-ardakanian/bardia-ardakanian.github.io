@@ -1,0 +1,22 @@
+---
+layout: page
+permalink: 
+title: Publications Deprecated
+description: publications by categories in reversed chronological order.
+nav: false
+---
+
+1. **Reinforcement Learning-Based Model Matching to Reduce the Sim-Real Gap in COBRA**, under review at the American Control Conference (ACC), 2025 [[link](https://arxiv.org/pdf/2406.13700)] [[pdf](/assets/pdf/SimToReal_ACC_2025.pdf)]
+Adarsh Salagame, Harin Kumar Nallaguntla, **Bardia Ardakanian**, Eric Sihite, Gunar Schirner, Alireza Ramezani
+
+2. **Unsupervised Camera-LiDAR Fusion for Fast Region Proposal**, BSc thesis, 2024, (Written in Farsi) [[link](https://digitallib.aut.ac.ir/)] [[pdf](/assets/pdf/Thesis_BardiaArdakanian.pdf)] [[slides](/assets/pdf/BA%20thesis.pdf)]
+Supervisor: Mahdi Javanmardi, committee: Mohammad Rahmati
+
+3. **Development of Natural and Artificial Intelligence - Post-Selection Dialogue: Challenges to Post-Selection**, IEEE Cognitive Development Systems Newsletter, vol. 18, no. 2, pp. 6-11, 2024 [[link](https://www.cse.msu.edu/amdtc/amdnl/CDSNL-V18-N2.pdf#page=6)] [[pdf](/assets/pdf/CDSNL-V18-N2.pdf)] 
+**Bardia Ardakanian**
+
+4. **Optimizing Cache Replacement Policies through Unsupervised Learning**, Manuscript Under Preparation, 
+**Bardia Ardakanian**, Hamed Farbeh
+
+5. **Unsupervised Camera-LiDAR Fusion for Efficient Online Segmentation**, Manuscript Under Preparation, 
+**Bardia Ardakanian**, Fardin Ayar, Mahdi Javanmardi
