@@ -33,7 +33,7 @@ nav_order: 4
   Supervisor: [Elham Cheshmikhani](https://en.sbu.ac.ir/~e_cheshmikhani)  
   Coordinated class activities and graded assignments for 41 and 38 students.
 
-- **Algorithm Design**, Fall 2022,   
+- **Algorithm Design**, Fall 2022,  
   Supervisors: [Hamid Haj Seyyed Javadi](https://scholar.google.com/citations?user=E0pspwIAAAAJ&hl=en) & [Alireza Bagheri](https://aut.ac.ir/cv/2072/Alireza%20Bagheri)  
   Coordinated sessions, designed assignments, and supported student learning for 57 and 75 students.
 
