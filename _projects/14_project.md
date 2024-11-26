@@ -4,6 +4,7 @@ title: Information Retrieval
 description: Built a simple search engine with an inverted index for efficient content retrieval.
 importance: 1
 category: fun
+img: assets/img/project_preview/tfidf.png
 ---
 
 Created a search engine using the inverted index technique to index and retrieve content efficiently. This project was focused on understanding the principles of information retrieval.  

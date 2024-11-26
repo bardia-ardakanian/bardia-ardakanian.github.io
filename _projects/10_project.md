@@ -4,6 +4,7 @@ title: Neural Network from Scratch
 description: Building a neural network entirely using NumPy for foundational learning.
 importance: 1
 category: fun
+img: assets/img/project_preview/nnscratch.png
 ---
 
 Built a neural network from scratch using only NumPy to understand the fundamentals of deep learning, including backpropagation, gradient descent, and activation functions. This project was part of a computational intelligence course.  

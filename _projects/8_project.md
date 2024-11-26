@@ -4,6 +4,7 @@ title: Explainable Image Super-Resolution
 description: Improving SwinIR's performance with a texture classifier and a new loss function for better restoration of blurry and noisy images.
 importance: 1
 category: research
+img: assets/img/project_preview/XSWINIR2.png
 related_publications: false
 github_link: https://github.com/bardia-ardakanian/XSwinIR
 ---

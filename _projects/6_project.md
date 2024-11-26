@@ -2,7 +2,7 @@
 layout: page
 title: Deep Active Learning Object Detection
 description: Enhancing Single Shot MultiBox Detector (SSD) training efficiency using deep active learning approaches.
-img: assets/img/project_preview/ALVAE.png
+img: assets/img/project_preview/ALVAE2.png
 importance: 1
 category: research
 related_publications: true
