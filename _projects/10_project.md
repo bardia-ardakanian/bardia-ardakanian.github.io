@@ -3,7 +3,7 @@ layout: page
 title: Neural Network from Scratch
 description: Building a neural network entirely using NumPy for foundational learning.
 importance: 1
-category: fun
+category: research
 img: assets/img/project_preview/nnscratch.png
 ---
 

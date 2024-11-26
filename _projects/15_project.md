@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Linear Optimization with Pyomo
+title: Soft-Margin SVM
 description: Designed a Soft-Margin SVM using Pyomo and mathematical optimization.
 importance: 1
-category: courses
+category: research
 img: assets/img/project_preview/smsvm.png
 ---
 

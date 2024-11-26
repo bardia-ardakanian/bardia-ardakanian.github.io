@@ -3,7 +3,7 @@ layout: page
 title: Evolutionary Games
 description: Developed a 2D game using neural networks and evolutionary algorithms.
 importance: 1
-category: fun
+category: games
 img: assets/img/project_preview/helicopter.png
 ---
 

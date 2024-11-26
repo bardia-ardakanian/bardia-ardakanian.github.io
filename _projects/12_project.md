@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software Engineering 1 - Botnet
+title: Stock Market Sentiment Analysis Botnet
 description: Built a botnet for sentiment analysis of stock market data.
 importance: 1
 category: fun

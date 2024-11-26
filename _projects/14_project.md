@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Information Retrieval
+title: Inverted Index Search Engine
 description: Built a simple search engine with an inverted index for efficient content retrieval.
 importance: 1
-category: fun
+category: research
 img: assets/img/project_preview/tfidf.png
 ---
 
