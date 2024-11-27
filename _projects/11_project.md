@@ -7,49 +7,32 @@ category: games
 img: assets/img/project_preview/helicopter.png
 ---
 
-This project involved designing and developing a 2D game inspired by Flappy Bird using Python. The core focus was to create a challenging environment for AI agents to learn and adapt using neural networks and evolutionary algorithms.
+This project involved designing and developing a **2D game inspired by Flappy Bird** entirely in **Python**. My goal was to learn both **game design** and how to train **AI agents** within a game environment. Using the **Game2D** library, I created dynamic scenarios like **Gravity** and **Thrust**, which introduced varying gravity, speed, and obstacle layouts. These challenges made the game a suitable environment for testing the adaptability and decision-making abilities of AI-controlled agents.
 
-### Game Design and Implementation
-
-The game was built entirely in Python, with different environments such as **Gravity** and **Thrust**, where each environment presented unique challenges by varying gravity, speed, and obstacles. These diverse scenarios tested the adaptability and robustness of the AI agents. The visual elements, including dynamic obstacles and environment changes, were designed to simulate a challenging but visually appealing gameplay experience.
-
-### AI Design and Training
-
-- **Agent Development:** Hundreds of AI agents were created and trained to play the game. Each agent controlled a virtual helicopter or object, attempting to navigate through obstacles without collisions.
-- **Training Mechanism:** 
-  - **Neural Networks (NNs):** Each agent used a simple artificial neural network (ANN) to make decisions, such as when to apply thrust or stay idle.
-  - **Evolutionary Algorithms:** The agents were optimized using evolutionary algorithms. Agents were scored based on their performance (e.g., distance traveled or obstacles cleared). The top-performing agents "reproduced" by passing their neural network parameters (weights) to the next generation, with random mutations introduced to encourage exploration.
-- **Scoring System:** The agents were evaluated and scored dynamically based on their ability to navigate through the varying environments. The scoring mechanism rewarded longer survival and better navigation strategies.
+The game uses **artificial neural networks (ANNs)** and **evolutionary algorithms** to train AI agents. I implemented a system where hundreds of agents attempt to navigate the game environment simultaneously, each receiving a score based on their performance, such as distance traveled or obstacles cleared. The best-performing agents were selected for the next generation, while their **neural network weights** were passed on with random **mutations** to introduce variability. This process continued until an agent either completed the game or achieved stable, high-level performance.
 
 ### Game Scenes
 
-<div class="row">
-  <div class="col">
-    <figure>
-      <img src="assets/img/project_preview/helicopter.png" alt="Helicopter Scene" class="img-fluid rounded">
-      <figcaption>Helicopter Scene</figcaption>
-    </figure>
+<div class="row justify-content-sm-center">
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/project_preview/helicopter.png" title="Helicopter Scene" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col">
-    <figure>
-      <img src="assets/img/project_preview/gravity.png" alt="Gravity Scene" class="img-fluid rounded">
-      <figcaption>Gravity Scene</figcaption>
-    </figure>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/project_preview/gravity.png" title="Gravity Scene" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col">
-    <figure>
-      <img src="assets/img/project_preview/thrust.png" alt="Thrust Scene" class="img-fluid rounded">
-      <figcaption>Thrust Scene</figcaption>
-    </figure>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/project_preview/thrust.png" title="Thrust Scene" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
-### Highlights
+### Training Visualization
 
-- Built multiple dynamic game environments with varying levels of difficulty to test AI adaptability.
-- Trained AI agents using evolutionary algorithms, producing agents capable of playing the game autonomously with near-perfect accuracy.
-- Explored reinforcement learning concepts through iterative evolution and reward systems.
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/project_preview/helicopter_many.png" title="Training Scene with Hundreds of AI-Controlled Helicopters" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
-This project not only demonstrated the integration of AI in games but also showcased the potential for creating adaptive agents in dynamic and challenging environments.
+This project was a hands-on experience in learning how to design interactive systems and develop AI agents that adapt to changing conditions. By building the game from scratch and training the agents with **evolutionary algorithms**, I gained a deeper understanding of how AI can be used in game environments to solve complex challenges.
 
 [GitHub Repository](https://github.com/bardia-ardakanian/CE351-CI-EvolutionaryGames)

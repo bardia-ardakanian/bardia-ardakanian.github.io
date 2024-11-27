@@ -1,28 +1,28 @@
 ---
 layout: page
 title: Precision Product Aligner
-description: Robotic alignment system for efficient downstream processing.
+description: Automated alignment system for efficient downstream processing.
 img: assets/img/project_preview/Aligner.png
 importance: 1
 category: work
 related_publications: false
 ---
 
-The **Product Aligner** was designed to streamline initial stages of the production line by positioning products accurately for downstream robotic systems. This system represents the foundation of the entire automation workflow.
+The **Product Aligner** was designed to streamline the initial stages of the production line by positioning products accurately for downstream processing. This system serves as the foundation for an efficient and fully automated production workflow.
 
 ### Key Contributions
 
-- **Robotics for Alignment:**
-  - Developed a high-speed alignment system using **servo motor control** for precision.
-  - Ensured compatibility with robotic arms and sorting systems.
+- **High-Precision Alignment:**
+  - Developed a high-speed alignment system using **servo motor control** to ensure consistent precision.
+  - Optimized the system for seamless integration with sorting and downstream automation systems.
 
 - **Machine Learning Integration:**
-  - Applied **object detection models** to dynamically adapt alignment based on product size and shape.
-  - Enabled real-time feedback loops to reduce alignment errors.
+  - Applied **object detection models** to adapt alignment dynamically based on product size and shape.
+  - Implemented real-time feedback loops to minimize alignment errors and improve accuracy.
 
 ### Impact
 
-- Established the groundwork for a fully automated production line, eliminating bottlenecks.
+- Eliminated bottlenecks in the production workflow, enabling a smooth transition to fully automated processes.
 - Contributed significantly to scaling production capacity from **2.5 tons to 17 tons daily**.
 
 <div class="row">
@@ -31,5 +31,5 @@ The **Product Aligner** was designed to streamline initial stages of the product
     </div>
 </div>
 <div class="caption">
-    Robotic product aligner integrating AI and automation for precision placement.
+    Automated product aligner integrating AI and precision control for efficient placement.
 </div>

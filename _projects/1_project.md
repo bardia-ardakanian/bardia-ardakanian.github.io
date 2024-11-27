@@ -1,29 +1,29 @@
 ---
 layout: page
-title: Automated Product Printing Machine
-description: Intelligent printing system for expiration and production date marking.
+title: Automated Product Printing System
+description: Intelligent system for expiration and production date marking in manufacturing.
 img: assets/img/project_preview/Printer.jpeg
 importance: 1
 category: work
 related_publications: false
 ---
 
-As part of the production line overhaul, I developed an **automated product printing system** that utilizes robotics and intelligent control to ensure precise marking of expiration and production dates. This machine is an essential component of the production workflow, facilitating high-speed, reliable, and traceable operations.
+As part of the production line overhaul, I developed an **automated product printing system** that uses intelligent control to ensure precise marking of expiration and production dates. This system is a vital component of the manufacturing workflow by enabling high-speed, reliable, and traceable operations.
 
 ### Key Contributions
 
-- **Robotics Integration:**
-  - Designed a robotic mechanism to synchronize with the conveyor system for real-time printing.
-  - Incorporated **intelligent control algorithms** for error detection and correction.
+- **Intelligent Control:**
+  - Designed a mechanism to synchronize with the conveyor system for real-time printing.
+  - Integrated **control algorithms** to detect and correct errors during production.
 
 - **Machine Learning Application:**
-  - Employed **optical character recognition (OCR)** techniques to verify print quality and reduce errors.
-  - Enhanced predictive maintenance through data-driven insights from machine logs.
+  - Utilized **optical character recognition (OCR)** to verify print quality and minimize errors.
+  - Improved predictive maintenance by analyzing machine logs to anticipate potential issues.
 
 ### Impact
 
 - Eliminated manual errors, ensuring 100% compliance with regulatory standards.
-- Contributed to the **17-ton daily production output** by automating a critical stage of the workflow.
+- Supported the **17-ton daily production output** by automating a critical stage of the workflow.
 - Enabled seamless international shipping by meeting global traceability standards.
 
 <div class="row">
@@ -32,5 +32,5 @@ As part of the production line overhaul, I developed an **automated product prin
     </div>
 </div>
 <div class="caption">
-    High-precision automated product printing integrated with robotics and machine learning.
+    High-precision automated product printing integrated with intelligent control and machine learning.
 </div>

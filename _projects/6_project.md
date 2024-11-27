@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deep Active Learning Object Detection
-description: Enhancing Single Shot MultiBox Detector (SSD) training efficiency using deep active learning approaches.
+description: Improving Single Shot MultiBox Detector (SSD) training with an advanced active learning framework.
 img: assets/img/project_preview/ALVAE2.png
 importance: 1
 category: research
@@ -9,46 +9,25 @@ related_publications: true
 github_link: https://github.com/bardia-ardakanian/AL-VAE
 ---
 
-This project focuses on **improving the training process of the Single Shot MultiBox Detector (SSD)** by integrating a deep active learning framework. The method filters out the most informative images from the dataset, reducing manual labeling efforts while improving the model's performance.
+This project focuses on **enhancing the training process of the Single Shot MultiBox Detector (SSD)** through the integration of a deep active learning framework. By prioritizing the most informative images from a pool of unlabeled data, the framework significantly reduces manual labeling efforts while improving model accuracy and efficiency.
 
-### Key Contributions
+### Key Contributions and Methodology
 
-- **Active Learning Framework:**
-  - Developed a dual-scoring system that combines **Variant Autoencoder (VAE) reconstruction loss** and SSD detector loss to rank and prioritize images.
-  - Utilized fixed weights on unlabeled data for consistent and effective image selection.
+At the core of this framework is a **dual-scoring system** that evaluates the informativeness of each image using two complementary loss metrics: the **reconstruction loss** from a Variational Autoencoder (VAE) and the **detection loss** from the SSD model. The VAE analyzes and reconstructs input images, with its reconstruction loss (`L_reconstruction`) serving as a measure of how unique or underexplored an image is in the dataset. Images with higher reconstruction loss are flagged as potentially valuable for training, as they represent regions of the data distribution that the model has yet to fully understand.
 
-- **Efficient Data Utilization:**
-  - Reduced manual labeling requirements by focusing on the most informative samples from the **unlabeled pool**.
-  - Implemented a **sorting function** to systematically improve the quality of data used for training.
+Simultaneously, the SSD model evaluates each image’s **detection loss** (`L_detection`), which reflects how much the image can contribute to improving object detection accuracy. These two metrics are combined into a single scoring function:  
+**Score = α × L_reconstruction + β × L_detection**,  
+where `α` and `β` are weights used to balance the importance of the VAE and SSD contributions. This scoring function ranks images, enabling the system to prioritize the most impactful ones for labeling and subsequent training.
 
-### Methodology
+The framework operates iteratively, selecting and labeling the highest-ranked images in each cycle. As new data is incorporated, the SSD model’s performance improves progressively, while the VAE continues to identify novel and diverse samples from the unlabeled pool. This iterative approach ensures efficient use of limited labeling resources while achieving rapid convergence and improved detection performance.
 
-- **Variant Autoencoder (VAE):**
-  - Used VAE to analyze and reconstruct images, calculating a reconstruction loss as a measure of informativeness.
-  - This loss, combined with SSD detection loss, allowed effective ranking of images for training.
+### Technical Impact
 
-- **Iterative Training:**
-  - Curated and updated the labeled dataset iteratively through active learning.
-  - Focused training on high-priority samples identified by the scoring system, improving efficiency.
-
-### Features
-
-- **Variational Autoencoder (VAE):**
-  - Evaluates the information content of images to assess their potential for enhancing model training.
-- **Active Learning:**
-  - Focuses on selecting data samples that provide the highest impact on SSD training.
-- **Dual-Scoring System:**
-  - Combines metrics from VAE and SSD to rank and select the most useful images.
-
-### Impact
-
-- Reduced the overall labeling workload by selectively training on key samples.
-- Achieved better accuracy and faster convergence for SSD training.
-- Made the framework scalable for large datasets, enabling practical applications in object detection.
+By strategically filtering and prioritizing images, the framework significantly reduces the time and cost associated with manual labeling. It scales efficiently to large datasets, making it a practical solution for real-world object detection challenges. The combination of the VAE and SSD enables the system to balance novelty and utility in data selection, resulting in faster training and higher model accuracy.
 
 ### GitHub Repository
 
-Explore the PyTorch implementation and codebase for this project on [GitHub](https://github.com/bardia-ardakanian/AL-VAE). The repository includes setup instructions, source code, and detailed documentation.
+The full PyTorch implementation and documentation are available on [GitHub](https://github.com/bardia-ardakanian/AL-VAE). This repository provides all necessary resources for reproducing the results and adapting the framework to other object detection tasks.
 
 ### Related Publications
 
@@ -57,9 +36,9 @@ Explore the PyTorch implementation and codebase for this project on [GitHub](htt
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_preview/ALVAE.png" title="Deep Active Learning Framework for SSD" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_preview/ALVAE2.png" title="Deep Active Learning Framework for SSD" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Diagram of the deep active learning framework applied to SSD training.
+    Framework integrating VAE and SSD for active learning in object detection.
 </div>

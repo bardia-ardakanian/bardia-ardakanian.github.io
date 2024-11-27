@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Explainable Image Super-Resolution
-description: Improving SwinIR's performance with a texture classifier and a new loss function for better restoration of blurry and noisy images.
+description: Enhancing SwinIR’s performance with a texture classifier and a novel loss function for better restoration of blurry and noisy images.
 importance: 1
 category: research
 img: assets/img/project_preview/XSWINIR2.png
@@ -9,70 +9,27 @@ related_publications: false
 github_link: https://github.com/bardia-ardakanian/XSwinIR
 ---
 
-We have developed a **PyTorch implementation of SwinIR** and enhanced it to improve performance on blurry and noisy images. The core idea includes integrating a **texture classifier** and a novel loss function to guide the training process by focusing on the similarity between sub-images in low-quality inputs and their high-resolution counterparts.
+This project focuses on improving the performance of **SwinIR** for image restoration tasks, particularly for blurry and noisy images, by integrating explainability into the training process. The enhancements include the development of a texture classifier and a novel loss function that emphasizes texture similarity between low-quality inputs and their high-resolution counterparts. These modifications provide not only better restoration performance but also a more interpretable model.
 
-### Key Contributions
+### Key Contributions and Methodology
 
-- **Texture Classifier:**
-  - Designed to evaluate the similarity between sub-images, enabling a more explainable and interpretable training process.
-  - Incorporates a **linear nature**, enhancing the model's transparency.
+The central contribution of this project is the integration of a texture classifier into the SwinIR training pipeline. The texture classifier evaluates the similarity between sub-images from low-quality inputs and corresponding regions in high-resolution targets. This similarity measure is used to make the model's decision-making process more interpretable. The lightweight nature of the classifier ensures minimal computational overhead, while its linear design improves transparency.
 
-- **New Loss Function:**
-  - Introduced a new loss formula: **SwinIR loss + min||Xc - y||²**, where:
-    - `Xc` represents similar sub-images in the high-quality image corresponding to the current sub-image in the low-quality input.
-    - `y` is the target high-resolution counterpart.
-  - This loss focuses on preserving texture similarity, resulting in better restoration performance.
+To further enhance training, a new loss function was introduced, defined as:  
+**Loss = SwinIR Loss + min||Xc - y||²**,  
+where `Xc` represents the texture classifier's identified sub-image in the high-resolution counterpart, and `y` is the ground truth. This loss function ensures that the restored images retain fine-grained textures, resulting in higher visual quality and better structural preservation.
 
-- **Performance Improvements:**
-  - Enhanced SwinIR's ability to restore blurry and noisy images by integrating explainability into the training process.
-
-### Methodology
-
-1. **Texture Classification:**
-   - A lightweight classifier identifies and matches sub-images from high-resolution images to low-quality inputs.
-
-2. **Training Process:**
-   - The SwinIR model is trained with the new loss function, combining the base SwinIR loss with the texture similarity term.
-
-3. **Explainability Focus:**
-   - The explainable nature of the texture classifier guides the model to focus on specific patterns, improving restoration quality.
-
-### Training and Testing Instructions
-
-#### Training
-1. Use `main_train_psnr.py` with the following arguments:
-   - `--opt`: Specify the configuration option file.
-   - `--tensorboard`: Enable TensorBoard for visualization.
-
-2. Preprocess the training data:
-   - Run `generate_mod_LR_bic.py` on high-resolution images to generate low-resolution counterparts.
-   - Extract sub-images using `extract_subimages.py` for HR and LR folders.
-
-#### Testing
-1. Use `main_test_swinir.py` with the following arguments:
-   - `--scale`: Define the scaling factor.
-   - `--training_patch_size`: Specify the patch size for testing.
-   - `--model_path`: Provide the path to the trained model.
-   - `--folder_lq`: Point to the folder with low-quality inputs.
-   - `--folder_gt`: Specify the folder with ground-truth images.
-
-2. For benchmarks:
-   - Download benchmarks using `python download_benchmarks.py zip_url destination_folder`.
+During training, the SwinIR model leverages the combined loss to focus on key patterns in the data, guided by the texture similarity metric. This approach improves the restoration process for challenging inputs like blurry or noisy images. The iterative nature of the training pipeline refines the model's ability to generalize, ensuring consistent performance across diverse datasets.
 
 ### Repository Overview
 
-The codebase is available on [GitHub](https://github.com/bardia-ardakanian/XSwinIR). Below is the directory structure:
-
-- **`data/`**: Contains dataset-related scripts (e.g., `dataset_sr` for super-resolution).
-- **`models/`**: Includes model definitions and core architecture. Add your network to `select_network.py` and update `model_plain.py` for training-specific modifications.
-- **`options/`**: Stores training configuration files.
-- **Scripts/`: Scripts for data preparation and benchmarks.
+The complete implementation of this project is available on [GitHub](https://github.com/bardia-ardakanian/XSwinIR). The repository includes training and testing scripts, detailed setup instructions, and all necessary files to replicate the results. It demonstrates how the texture classifier and loss function were integrated into the SwinIR architecture.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_preview/XSWINIR.png" title="XSwinIR: Enhanced Image Restoration Framework" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_preview/XSWINIR2.png" title="XSwinIR: Enhanced Image Restoration Framework" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Improved XSwinIR framework integrating texture similarity for better image restoration.
+    Enhanced XSwinIR framework incorporating explainable texture similarity for improved image restoration.
 </div>
