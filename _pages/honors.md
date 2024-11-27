@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+- **Bachelor's Thesis Nominated for Best Thesis** in Artificial Intelligence and **Presented at the AAIC24 Event**, Amirkabir University of Technology, 2024
+
 - Ranked in the top **20%** of the Class of 2019 in Computer Engineering at Amirkabir, 2024
 
 - Admitted to **Shahid Beheshti University** and Achieved top **3%** among all applicants of the Nationwide University Entrance Exam for M.Sc. in Robotics and Artificial Intelligence (approximately 14000 applicants), Iran, 2024.
