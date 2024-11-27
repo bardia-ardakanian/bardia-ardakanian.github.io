@@ -4,6 +4,7 @@ title: XTC Texture Classifier
 description: A machine learning model for identifying similar sub-images using VGG16 and linear regression.
 importance: 2
 category: research
+img: assets/img/project_preview/XTC.png
 ---
 
 The XTC Texture Classifier is part of a broader research effort in image super-resolution, aiming to identify high-quality sub-images similar to a low-quality input. The system uses the **VGG16** model, a pre-trained convolutional neural network, to extract high-level features from sub-images. These features are passed through a lightweight linear regression model, which computes similarity scores to find matches between low-resolution inputs and high-resolution target sub-images.
