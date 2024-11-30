@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My thesis, **Unsupervised Camera-LiDAR Fusion for Fast Region Proposal**, has been nominated for the best thesis in AI award at Amirkabir University of Technology.
+My thesis, **Unsupervised Camera-LiDAR Fusion for Fast Region Proposal**, was nominated and awarded as one of the best theses in AI at Amirkabir University of Technology.
