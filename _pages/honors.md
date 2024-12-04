@@ -35,7 +35,7 @@ nav_order: 3
 
 - Honored as an **Active Member** of The Student Scientific Chapter of Computer Engineering Department, Amirkabir, 2020.
 
-- Achieved top **2%** place among all applicants of the Nationwide University Entrance Exam for B.Sc. in Math. and Engineering (150666 applicants), Iran, 2019.
+- Achieved top **1%** place among all applicants of the Nationwide University Entrance Exam for B.Sc. in Math. and Engineering (150666 applicants), Iran, 2019.
 
 - Selected as a member of the highschool team for the **National Scientific Olympiad in Computer** as a result of distinguished performance (4th place among 11th-grade students), Allameh Tabataba'i Highschool, 2017.
 
