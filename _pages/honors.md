@@ -25,6 +25,8 @@ nav_order: 3
 
 - Granted a **50%** tuition reduction based on outstanding academic performance during my bachelor's studies, Amirkabir, 2021.
 
+- Selected for the Competitive Co-op Program at Amirkabir University of Technology, 2021.
+
 - **Lecturer** at Amirkabir Linuxfest, an event with over 800 attendees – Delivered lectures on Linux control groups and Linux fundamentals, Amirkabir, 2020.
 
 - **Honored** as Head of Student Affairs, Student Guild Council for the Department of Computer Engineering, Amirkabir, 2020.
