@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-- **Bachelor's Thesis Selected as One of the Best Theses in Artificial Intelligence** and **Presented at the AAIC24 Event**, Amirkabir University of Technology, 2024
+- **Bachelor's Thesis Selected as One of the Best Theses in Artificial Intelligence** and **Presented at the AAIC24 Conference**, Amirkabir University of Technology, 2024
 
 - Ranked in the top **20%** of the Class of 2019 in Computer Engineering at Amirkabir, 2024
 
