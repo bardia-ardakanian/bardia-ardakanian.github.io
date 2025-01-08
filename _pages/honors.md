@@ -11,7 +11,7 @@ nav_order: 3
 
 - Ranked in the top **20%** of the Class of 2019 in Computer Engineering at Amirkabir, 2024
 
-- Admitted to **Shahid Beheshti University** and Achieved top **3%** among all applicants of the Nationwide University Entrance Exam for M.Sc. in Robotics and Artificial Intelligence (approximately 14000 applicants), Iran, 2024.
+- Achieved top **3%** among all applicants of the Nationwide University Entrance Exam for M.Sc. in Robotics and Artificial Intelligence (approximately 14000 applicants), Iran, 2024.
 
 - **Member** of Robotics Lab, Computer Engineering Department, Amirkabir, September 2023.
 
